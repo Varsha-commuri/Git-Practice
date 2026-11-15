@@ -1,0 +1,8 @@
+GitHub Flow Demonstration
+
+1. Start with the main branch.
+2. Create a separate feature branch.
+3. Make changes and commit them.
+4. Push the feature branch to GitHub.
+5. Create a Pull Request.
+6. Review and merge the changes into main.
