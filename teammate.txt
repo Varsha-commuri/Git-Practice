@@ -1,0 +1,2 @@
+Hello from another developer!
+This file demonstrates Git collaboration.
